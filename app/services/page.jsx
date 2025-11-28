@@ -74,14 +74,14 @@ function Services() {
 									</div>
 									<p className="text-colorCyanBlue mb-2 font-bold">House OS</p>
 									<h3 className="mb-4 block text-xl leading-tight -tracking-[0.5px] group-hover:text-white xl:text-2xl xxl:text-[28px]">
-										<Link href="/service-details" className="hover:text-colorCyanBlue">
+										<Link href="/domain/house-os" className="hover:text-colorCyanBlue">
 											Smart Home Automation
 										</Link>
 									</h3>
 									<p className="mb-12 duration-300 group-hover:text-white">
 										Your living environment becomes intelligent, adaptive, and fully automated for comfort and security.
 									</p>
-									<Link href="/service-details" className="relative inline-block h-[30px] w-[30px] duration-300">
+									<Link href="/domain/house-os" className="relative inline-block h-[30px] w-[30px] duration-300">
 										<Image src="/assets/images/th-1/arrow-right-black.svg" alt="arrow-right-black" width={30} height={30} />
 										<Image src="/assets/images/th-1/arrow-right-orange.svg" alt="arrow-right-orange" width={30} height={30}
 											className="absolute left-0 top-0 h-full w-full opacity-0 transition-all duration-300 ease-linear group-hover:opacity-100" />
@@ -97,14 +97,14 @@ function Services() {
 									</div>
 									<p className="text-colorCyanBlue mb-2 font-bold">School OS</p>
 									<h3 className="mb-4 block text-xl leading-tight -tracking-[0.5px] group-hover:text-white xl:text-2xl xxl:text-[28px]">
-										<Link href="/service-details" className="hover:text-colorCyanBlue">
+										<Link href="/domain/school-os" className="hover:text-colorCyanBlue">
 											Intelligent Learning Hub
 										</Link>
 									</h3>
 									<p className="mb-12 duration-300 group-hover:text-white">
 										AI-driven education that adapts to student needs, boosts productivity, and simplifies daily school tasks.
 									</p>
-									<Link href="/service-details" className="relative inline-block h-[30px] w-[30px] duration-300">
+									<Link href="/domain/school-os" className="relative inline-block h-[30px] w-[30px] duration-300">
 										<Image src="/assets/images/th-1/arrow-right-black.svg" alt="arrow-right-black" width={30} height={30} />
 										<Image src="/assets/images/th-1/arrow-right-orange.svg" alt="arrow-right-orange" width={30} height={30}
 											className="absolute left-0 top-0 h-full w-full opacity-0 transition-all duration-300 ease-linear group-hover:opacity-100" />
@@ -120,14 +120,14 @@ function Services() {
 									</div>
 									<p className="text-colorCyanBlue mb-2 font-bold">Office OS</p>
 									<h3 className="mb-4 block text-xl leading-tight -tracking-[0.5px] group-hover:text-white xl:text-2xl xxl:text-[28px]">
-										<Link href="/service-details" className="hover:text-colorCyanBlue">
+										<Link href="/domain/office-os" className="hover:text-colorCyanBlue">
 											Workplace Automation
 										</Link>
 									</h3>
 									<p className="mb-12 duration-300 group-hover:text-white">
 										Streamlines meetings, tasks, workflows, and office operations with predictive AI assistance.
 									</p>
-									<Link href="/service-details" className="relative inline-block h-[30px] w-[30px] duration-300">
+									<Link href="/domain/office-os" className="relative inline-block h-[30px] w-[30px] duration-300">
 										<Image src="/assets/images/th-1/arrow-right-black.svg" alt="arrow-right-black" width={30} height={30} />
 										<Image src="/assets/images/th-1/arrow-right-orange.svg" alt="arrow-right-orange" width={30} height={30}
 											className="absolute left-0 top-0 h-full w-full opacity-0 transition-all duration-300 ease-linear group-hover:opacity-100" />
@@ -143,14 +143,14 @@ function Services() {
 									</div>
 									<p className="text-colorCyanBlue mb-2 font-bold">Time OS</p>
 									<h3 className="mb-4 block text-xl leading-tight -tracking-[0.5px] group-hover:text-white xl:text-2xl xxl:text-[28px]">
-										<Link href="/service-details" className="hover:text-colorCyanBlue">
+										<Link href="/domain/time-os" className="hover:text-colorCyanBlue">
 											AI Time Management
 										</Link>
 									</h3>
 									<p className="mb-12 duration-300 group-hover:text-white">
 										A fully automated calendar that organizes life, predicts needs, and optimizes your daily schedule.
 									</p>
-									<Link href="/service-details" className="relative inline-block h-[30px] w-[30px] duration-300">
+									<Link href="/domain/time-os" className="relative inline-block h-[30px] w-[30px] duration-300">
 										<Image src="/assets/images/th-1/arrow-right-black.svg" alt="arrow-right-black" width={30} height={30} />
 										<Image src="/assets/images/th-1/arrow-right-orange.svg" alt="arrow-right-orange" width={30} height={30}
 											className="absolute left-0 top-0 h-full w-full opacity-0 transition-all duration-300 ease-linear group-hover:opacity-100" />
@@ -166,14 +166,14 @@ function Services() {
 									</div>
 									<p className="text-colorCyanBlue mb-2 font-bold">Quantum OS</p>
 									<h3 className="mb-4 block text-xl leading-tight -tracking-[0.5px] group-hover:text-white xl:text-2xl xxl:text-[28px]">
-										<Link href="/service-details" className="hover:text-colorCyanBlue">
+										<Link href="/domain/quantum-os" className="hover:text-colorCyanBlue">
 											Quantum Intelligence
 										</Link>
 									</h3>
 									<p className="mb-12 duration-300 group-hover:text-white">
 										Advanced processing for complex tasks, high-speed logic, and futuristic computation workflows.
 									</p>
-									<Link href="/service-details" className="relative inline-block h-[30px] w-[30px] duration-300">
+									<Link href="/domain/quantum-os" className="relative inline-block h-[30px] w-[30px] duration-300">
 										<Image src="/assets/images/th-1/arrow-right-black.svg" alt="arrow-right-black" width={30} height={30} />
 										<Image src="/assets/images/th-1/arrow-right-orange.svg" alt="arrow-right-orange" width={30} height={30}
 											className="absolute left-0 top-0 h-full w-full opacity-0 transition-all duration-300 ease-linear group-hover:opacity-100" />
@@ -189,14 +189,14 @@ function Services() {
 									</div>
 									<p className="text-colorCyanBlue mb-2 font-bold">Future OS</p>
 									<h3 className="mb-4 block text-xl leading-tight -tracking-[0.5px] group-hover:text-white xl:text-2xl xxl:text-[28px]">
-										<Link href="/service-details" className="hover:text-colorCyanBlue">
+										<Link href="/domain/future-os" className="hover:text-colorCyanBlue">
 											Next-Gen Innovation
 										</Link>
 									</h3>
 									<p className="mb-12 duration-300 group-hover:text-white">
 										Enables futuristic features, upcoming technologies, and new experiences across every CYBOKARFT domain.
 									</p>
-									<Link href="/service-details" className="relative inline-block h-[30px] w-[30px] duration-300">
+									<Link href="/domain/future-os" className="relative inline-block h-[30px] w-[30px] duration-300">
 										<Image src="/assets/images/th-1/arrow-right-black.svg" alt="arrow-right-black" width={30} height={30} />
 										<Image src="/assets/images/th-1/arrow-right-orange.svg" alt="arrow-right-orange" width={30} height={30}
 											className="absolute left-0 top-0 h-full w-full opacity-0 transition-all duration-300 ease-linear group-hover:opacity-100" />
@@ -212,14 +212,14 @@ function Services() {
 									</div>
 									<p className="text-colorCyanBlue mb-2 font-bold">Telecom OS</p>
 									<h3 className="mb-4 block text-xl leading-tight -tracking-[0.5px] group-hover:text-white xl:text-2xl xxl:text-[28px]">
-										<Link href="/service-details" className="hover:text-colorCyanBlue">
+										<Link href="/domain/telecom-os" className="hover:text-colorCyanBlue">
 											Smart Connectivity
 										</Link>
 									</h3>
 									<p className="mb-12 duration-300 group-hover:text-white">
 										Optimizes communication networks, telecom tasks, routing, and intelligent global connectivity.
 									</p>
-									<Link href="/service-details" className="relative inline-block h-[30px] w-[30px] duration-300">
+									<Link href="/domain/telecom-os" className="relative inline-block h-[30px] w-[30px] duration-300">
 										<Image src="/assets/images/th-1/arrow-right-black.svg" alt="arrow-right-black" width={30} height={30} />
 										<Image src="/assets/images/th-1/arrow-right-orange.svg" alt="arrow-right-orange" width={30} height={30}
 											className="absolute left-0 top-0 h-full w-full opacity-0 transition-all duration-300 ease-linear group-hover:opacity-100" />
@@ -235,14 +235,14 @@ function Services() {
 									</div>
 									<p className="text-colorCyanBlue mb-2 font-bold">Internet OS</p>
 									<h3 className="mb-4 block text-xl leading-tight -tracking-[0.5px] group-hover:text-white xl:text-2xl xxl:text-[28px]">
-										<Link href="/service-details" className="hover:text-colorCyanBlue">
+										<Link href="/domain/internet-os" className="hover:text-colorCyanBlue">
 											Web Intelligence
 										</Link>
 									</h3>
 									<p className="mb-12 duration-300 group-hover:text-white">
 										Automates online activity, digital identity, browsing tasks, and delivers a secure smart internet layer.
 									</p>
-									<Link href="/service-details" className="relative inline-block h-[30px] w-[30px] duration-300">
+									<Link href="/domain/internet-os" className="relative inline-block h-[30px] w-[30px] duration-300">
 										<Image src="/assets/images/th-1/arrow-right-black.svg" alt="arrow-right-black" width={30} height={30} />
 										<Image src="/assets/images/th-1/arrow-right-orange.svg" alt="arrow-right-orange" width={30} height={30}
 											className="absolute left-0 top-0 h-full w-full opacity-0 transition-all duration-300 ease-linear group-hover:opacity-100" />
@@ -259,14 +259,14 @@ function Services() {
 									</div>
 									<p className="text-colorCyanBlue mb-2 font-bold">Space OS</p>
 									<h3 className="mb-4 block text-xl leading-tight -tracking-[0.5px] group-hover:text-white xl:text-2xl xxl:text-[28px]">
-										<Link href="/service-details" className="hover:text-colorCyanBlue">
+										<Link href="/domain/space-os" className="hover:text-colorCyanBlue">
 											Space Intelligence
 										</Link>
 									</h3>
 									<p className="mb-12 duration-300 group-hover:text-white">
 										Supports aerospace logic, mission control tools, and advanced space-grade AI automation.
 									</p>
-									<Link href="/service-details" className="relative inline-block h-[30px] w-[30px] duration-300">
+									<Link href="/domain/space-os" className="relative inline-block h-[30px] w-[30px] duration-300">
 										<Image src="/assets/images/th-1/arrow-right-black.svg" alt="arrow-right-black" width={30} height={30} />
 										<Image src="/assets/images/th-1/arrow-right-orange.svg" alt="arrow-right-orange" width={30} height={30}
 											className="absolute left-0 top-0 h-full w-full opacity-0 transition-all duration-300 ease-linear group-hover:opacity-100" />
@@ -275,9 +275,9 @@ function Services() {
 								<li className="group flex flex-col justify-center bg-white p-[30px] transition-all lg:col-span-3 duration-300 ease-in-out hover:bg-black">
 
 									<h3 className="mb-4 block  leading-tight -tracking-[0.5px] group-hover:text-white  text-5xl ">
-										<Link href="/service-details" className=" ">
+										<div   className=" ">
 											These Are Our Core Services
-										</Link>
+										</div>
 									</h3>
 									<p className="mb-12 duration-300 group-hover:text-white">
 										We have 9 OS for various domain . just like our 9 planets

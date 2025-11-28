@@ -23,15 +23,16 @@ function Home_1() {
 
 
   const slides = [
-    "/assets/images/final-1/house-os.png",
-    "/assets/images/th-1/7585.jpg",
-    "/assets/images/th-1/hero-dashboard.jpg",
-    "/assets/images/th-1/hero-dashboard.jpg",
-    "/assets/images/th-1/hero-dashboard.jpg",
-    "/assets/images/th-1/hero-dashboard.jpg",
-    "/assets/images/th-1/hero-dashboard.jpg",
-    "/assets/images/th-1/hero-dashboard.jpg",
-    "/assets/images/th-1/hero-dashboard.jpg",
+    "/assets/images/final-1/q1.webp",
+    "/assets/images/final-1/q2.webp",
+    "/assets/images/final-1/q3.webp",
+    "/assets/images/final-1/q4.webp",
+    "/assets/images/final-1/q5.webp",
+    "/assets/images/final-1/q6.webp",
+    "/assets/images/final-1/q7.webp",
+    "/assets/images/final-1/q8.webp",
+    "/assets/images/final-1/q9.webp",
+
   ];
 
   return (
@@ -432,11 +433,11 @@ function Home_1() {
               <div className='grid grid-cols-1 items-center gap-12 md:grid-cols-2 lg:gap-20 xl:gap-28 xxl:gap-32'>
                 {/* Content Left Block */}
                 <div
-                  className='jos order-2 overflow-hidden rounded-md md:order-1'
+                  className='jos order-2 overflow-hidden rounded-xl md:order-1'
                   data-jos_animation='fade-left'
                 >
                   <Image
-                    src='/assets/images/th-1/content-image-1.jpg'
+                    src='/assets/images/final-1/nineverse.webp'
                     alt='content-image-1'
                     width='526'
                     height='450'
@@ -484,11 +485,11 @@ function Home_1() {
               <div className='grid grid-cols-1 items-center gap-12 md:grid-cols-2 lg:gap-20 xl:grid-cols-[minmax(0,_1.2fr)_1fr] xl:gap-28 xxl:gap-32'>
                 {/* Content Left Block */}
                 <div
-                  className='jos order-2 overflow-hidden rounded-md'
+                  className='jos order-2 overflow-hidden rounded-lg'
                   data-jos_animation='fade-left'
                 >
                   <Image
-                    src='/assets/images/th-1/content-image-2.jpg'
+                    src='/assets/images/final-1/whycybo.webp'
                     alt='content-image-2'
                     width='526'
                     height='450'
@@ -620,7 +621,7 @@ function Home_1() {
               {/* Funfact Left Block */}
               <div className='relative overflow-hidden rounded-[30px] lg:rounded-[50px]'>
                 <Image
-                  src='/assets/images/th-1/funfact-image.jpg'
+                  src='/assets/images/final-1/aipowerd.webp'
                   alt='funfact-image'
                   width='721'
                   height='784'
@@ -849,7 +850,7 @@ function Home_1() {
 
                 {/* Testimonial Item */}
                 <div
-                  className='jos flex flex-col gap-y-8 rounded-[10px] border-[1px] border-colorCodGray p-[30px] text-white'
+                  className='jos flex flex-col gap-y-8 rounded-[10px] border-[1px] border-gray-500 p-[30px] text-white'
                   data-jos_animation='fade-left'
                   data-jos_delay='0.1'
                 >
@@ -868,7 +869,7 @@ function Home_1() {
                   <div className='flex items-center gap-x-4'>
                     <div className='h-[60px] w-[60px] overflow-hidden rounded-full'>
                       <Image
-                        src='/assets/images/th-1/testimonial-img-1.jpg'
+                        src='/assets/images/final-1/pr1.webp'
                         alt='testimonial-img'
                         width='60'
                         height='60'
@@ -889,7 +890,7 @@ function Home_1() {
 
                 {/* Testimonial Item */}
                 <div
-                  className='jos flex flex-col gap-y-8 rounded-[10px] border-[1px] border-colorCodGray p-[30px] text-white'
+                  className='jos flex flex-col gap-y-8 rounded-[10px] border-[1px] border-gray-500 p-[30px] text-white'
                   data-jos_animation='fade-left'
                   data-jos_delay='0.2'
                 >
@@ -908,7 +909,7 @@ function Home_1() {
                   <div className='flex items-center gap-x-4'>
                     <div className='h-[60px] w-[60px] overflow-hidden rounded-full'>
                       <Image
-                        src='/assets/images/th-1/testimonial-img-2.jpg'
+                        src='/assets/images/final-1/pr2.webp'
                         alt='testimonial-img'
                         width='60'
                         height='60'
@@ -929,7 +930,7 @@ function Home_1() {
 
                 {/* Testimonial Item */}
                 <div
-                  className='jos flex flex-col gap-y-8 rounded-[10px] border-[1px] border-colorCodGray p-[30px] text-white'
+                  className='jos flex flex-col gap-y-8 rounded-[10px] border-[1px] border-gray-500 p-[30px] text-white'
                   data-jos_animation='fade-left'
                   data-jos_delay='0.3'
                 >
@@ -948,7 +949,7 @@ function Home_1() {
                   <div className='flex items-center gap-x-4'>
                     <div className='h-[60px] w-[60px] overflow-hidden rounded-full'>
                       <Image
-                        src='/assets/images/th-1/testimonial-img-3.jpg'
+                        src='/assets/images/final-1/pr1.webp'
                         alt='testimonial-img'
                         width='60'
                         height='60'
@@ -969,7 +970,7 @@ function Home_1() {
 
                 {/* Testimonial Item */}
                 <div
-                  className='jos flex flex-col gap-y-8 rounded-[10px] border-[1px] border-colorCodGray p-[30px] text-white'
+                  className='jos flex flex-col gap-y-8 rounded-[10px] border-[1px] border-gray-500 p-[30px] text-white'
                   data-jos_animation='fade-right'
                   data-jos_delay='0.1'
                 >
@@ -988,7 +989,7 @@ function Home_1() {
                   <div className='flex items-center gap-x-4'>
                     <div className='h-[60px] w-[60px] overflow-hidden rounded-full'>
                       <Image
-                        src='/assets/images/th-1/testimonial-img-4.jpg'
+                        src='/assets/images/final-1/pr2.webp'
                         alt='testimonial-img'
                         width='60'
                         height='60'
@@ -1009,7 +1010,7 @@ function Home_1() {
 
                 {/* Testimonial Item */}
                 <div
-                  className='jos flex flex-col gap-y-8 rounded-[10px] border-[1px] border-colorCodGray p-[30px] text-white'
+                  className='jos flex flex-col gap-y-8 rounded-[10px] border-[1px] border-gray-500 p-[30px] text-white'
                   data-jos_animation='fade-right'
                   data-jos_delay='0.2'
                 >
@@ -1028,7 +1029,7 @@ function Home_1() {
                   <div className='flex items-center gap-x-4'>
                     <div className='h-[60px] w-[60px] overflow-hidden rounded-full'>
                       <Image
-                        src='/assets/images/th-1/testimonial-img-5.jpg'
+                        src='/assets/images/final-1/pr2.webp'
                         alt='testimonial-img'
                         width='60'
                         height='60'
@@ -1049,7 +1050,7 @@ function Home_1() {
 
                 {/* Testimonial Item */}
                 <div
-                  className='jos flex flex-col gap-y-8 rounded-[10px] border-[1px] border-colorCodGray p-[30px] text-white'
+                  className='jos flex flex-col gap-y-8 rounded-[10px] border-[1px] border-gray-500 p-[30px] text-white'
                   data-jos_animation='fade-right'
                   data-jos_delay='0.3'
                 >
@@ -1068,7 +1069,7 @@ function Home_1() {
                   <div className='flex items-center gap-x-4'>
                     <div className='h-[60px] w-[60px] overflow-hidden rounded-full'>
                       <Image
-                        src='/assets/images/th-1/testimonial-img-6.jpg'
+                        src='/assets/images/final-1/pr1.webp'
                         alt='testimonial-img'
                         width='60'
                         height='60'

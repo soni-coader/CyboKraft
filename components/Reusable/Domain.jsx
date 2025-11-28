@@ -53,7 +53,7 @@ export default function ServiceDetails({ data }) {
                             <div className="grid grid-cols-1 items-center gap-12 md:grid-cols-2 xl:grid-cols-[minmax(0,_1.2fr)_1fr] xl:gap-28">
 
                                 {/* Image */}
-                                <div className="jos order-2 overflow-hidden rounded-md" data-jos_animation="fade-left">
+                                <div className="jos order-2 overflow-hidden rounded-xl" data-jos_animation="fade-left">
                                     <Image
                                         src={sections.hero.image.src}
                                         alt={sections.hero.image.alt}
@@ -109,7 +109,7 @@ export default function ServiceDetails({ data }) {
                             <div className="grid grid-cols-1 items-center gap-12 md:grid-cols-[minmax(0,_1fr)_1.2fr] xl:gap-28 xxl:gap-32">
 
                                 {/* Image */}
-                                <div className="jos order-2 md:order-1 overflow-hidden rounded-md" data-jos_animation="fade-left">
+                                <div className="jos order-2 md:order-1 overflow-hidden rounded-xl" data-jos_animation="fade-left">
                                     <Image
                                         src={sections.industry.image.src}
                                         alt={sections.industry.image.alt}
@@ -191,7 +191,7 @@ export default function ServiceDetails({ data }) {
                         <div className="global-container">
                             <div className="grid grid-cols-1 items-center gap-12 md:grid-cols-2 xl:grid-cols-[minmax(0,_1.2fr)_1fr] xl:gap-28">
 
-                                <div className="jos order-2 overflow-hidden rounded-md" data-jos_animation="fade-left">
+                                <div className="jos order-2 overflow-hidden rounded-xl" data-jos_animation="fade-left">
                                     <Image
                                         src={sections.capabilities.image.src}
                                         alt={sections.capabilities.image.alt}
