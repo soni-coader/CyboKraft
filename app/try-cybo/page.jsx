@@ -246,7 +246,7 @@ function TryCybo() {
                                             <p className="font-raleway text-lg font-bold">
                                                 TryCybo reduced our ticket backlog and delighted customers with faster answers.
                                             </p>
-                                            <div className="text-[21px] font-semibold">- Jamie O'Connor <span className="block text-lg font-normal">Head of Support</span></div>
+                                            <div className="text-[21px] font-semibold">- Jamie OConnor <span className="block text-lg font-normal">Head of Support</span></div>
                                         </li>
 
                                         <li className="jos flex flex-col gap-y-6 text-white" data-jos_delay="0.2">
@@ -315,7 +315,7 @@ function TryCybo() {
                         <div className="py-16 xl:py-[80px]">
                             <div className="global-container text-center">
                                 <h2 className="font-raleway text-4xl font-medium text-white">Ready to deploy an agent?</h2>
-                                <p className="mt-4 text-white">Schedule a demo and we'll build a custom TryCybo pilot for your use-case.</p>
+                                <p className="mt-4 text-white">Schedule a demo and we will build a custom TryCybo pilot for your use-case.</p>
                                 <div className="mt-8">
                                     <Link href="/contact" className="button inline-block rounded-[50px] border-2 border-white bg-white text-black">Schedule a Demo</Link>
                                 </div>
