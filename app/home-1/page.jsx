@@ -121,7 +121,7 @@ function Home_1() {
                 </Swiper>
               </div>
 
-              
+
             </div>
             <div className='orange-gradient-1 absolute -right-[150px] top-[370px] -z-[1] h-[500px] w-[500px] animate-spin rounded-[500px]'></div>
 
@@ -165,7 +165,7 @@ function Home_1() {
 
                   <h3 className='mb-4 block text-xl leading-tight -tracking-[0.5px] group-hover:text-white xl:text-2xl xxl:text-[28px]'>
                     <Link
-                      href='/service-details'
+                      href='/services'
                       className='hover:text-colorCyanBlue'
                     >
                       Personal AI-OS for Every Individual
@@ -177,7 +177,7 @@ function Home_1() {
                   </p>
 
                   <Link
-                    href='/service-details'
+                    href='/services'
                     className='relative inline-block h-[30px] w-[30px] duration-300'
                   >
                     <Image
@@ -216,7 +216,7 @@ function Home_1() {
 
                   <h3 className='mb-4 block text-xl leading-tight -tracking-[0.5px] group-hover:text-white xl:text-2xl xxl:text-[28px]'>
                     <Link
-                      href='/service-details'
+                      href='/services'
                       className='hover:text-colorCyanBlue'
                     >
                       Smart Enterprises & Industrial Automation
@@ -228,7 +228,7 @@ function Home_1() {
                   </p>
 
                   <Link
-                    href='/service-details'
+                    href='/services'
                     className='relative inline-block h-[30px] w-[30px] duration-300'
                   >
                     <Image
@@ -268,7 +268,7 @@ function Home_1() {
                   </div>
                   <h3 className='mb-4 block text-xl leading-tight -tracking-[0.5px] group-hover:text-white xl:text-2xl xxl:text-[28px]'>
                     <Link
-                      href='/service-details'
+                      href='/services'
                       className='hover:text-colorCyanBlue'
                     >
                       Unified Digital Government & Public Services
@@ -280,7 +280,7 @@ function Home_1() {
                   </p>
 
                   <Link
-                    href='/service-details'
+                    href='/services'
                     className='relative inline-block h-[30px] w-[30px] duration-300'
                   >
                     <Image
@@ -318,7 +318,7 @@ function Home_1() {
                   </div>
                   <h3 className='mb-4 block text-xl leading-tight -tracking-[0.5px] group-hover:text-white xl:text-2xl xxl:text-[28px]'>
                     <Link
-                      href='/service-details'
+                      href='/services'
                       className='hover:text-colorCyanBlue'
                     >
                       Healthcare, Education & Space Intelligence
@@ -330,7 +330,7 @@ function Home_1() {
                   </p>
 
                   <Link
-                    href='/service-details'
+                    href='/services'
                     className='relative inline-block h-[30px] w-[30px] duration-300'
                   >
                     <Image
