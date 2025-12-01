@@ -60,7 +60,7 @@ function About() {
 								data-jos_animation="zoom"
 							>
 								<Image
-									src="/assets/images/th-1/about-hero-image.jpg"
+									src="/assets/images/aboutus-faq/i1.webp"
 									alt="about-hero-image"
 									width={1296}
 									height={650}
@@ -163,7 +163,7 @@ function About() {
 									data-jos_animation="fade-left"
 								>
 									<Image
-										src="/assets/images/th-1/about-image.png"
+										src="/assets/images/aboutus-faq/i2.webp"
 										alt="content-image-2"
 										width={526}
 										height={550}

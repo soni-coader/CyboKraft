@@ -298,7 +298,7 @@ function Contact() {
 				</section>
 				{/*...::: Contact Section End :::... */}
 				{/*...::: Map Section Start :::... */}
-				<section className="map-section">
+				<section className="map-section hidden ">
 					{/* Section Spacer */}
 					<div className="bg-black pb-40 pt-20 xl:pb-[200px] xl:pt-[130px]">
 						{/* Section Container */}

@@ -36,6 +36,7 @@ module.exports = {
         colorCodGray: '#191919',
         colorOrange: '#FE330A',
         colorCyanBlue: '#0296e6',
+        coloBrandBlue: '#0068A0',
         colorLinenRuffle: '#EFEAE3',
         colorViolet: '#321CA4',
         colorGreen: '#39FF14',

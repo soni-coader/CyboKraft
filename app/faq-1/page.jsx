@@ -185,7 +185,7 @@ const Faq_1 = () => {
 									data-jos_animation="fade-left"
 								>
 									<Image
-										src="/assets/images/th-1/about-contact-img.jpg"
+										src="/assets/images/aboutus-faq/i3.webp"
 										alt="about-contact-img"
 										width={526}
 										height={550}
