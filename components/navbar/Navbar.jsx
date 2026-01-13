@@ -112,12 +112,12 @@ const Navbar = ({ mobileMenu, setMobileMenu, color }) => {
           </li> */}
 
           <li className='nav-item'>
-            <Link href='/' className='nav-link-item'>
+            <Link href='/' className='nav-link-item' onClick={handleMenu}>
               Home
             </Link>
           </li>
           <li className='nav-item'>
-            <Link href='/services' className='nav-link-item'>
+            <Link href='/services' className='nav-link-item' onClick={handleMenu}>
               Services
             </Link>
           </li>
@@ -137,37 +137,37 @@ const Navbar = ({ mobileMenu, setMobileMenu, color }) => {
               />
             </Link>
             <ul
-              className={`sub-menu ${mobileSubMenu === 2 && 'active'}`}
-              id='submenu-2'
+              className={`sub-menu ${mobileSubMenu === 1 && 'active'}`}
+              id='submenu-1'
             >
 
-              
+
               <li className='sub-menu--item'>
-                <Link href='/domain/house-os'>House OS</Link>
+                <Link href='/domain/house-os' onClick={handleMenu}>House OS</Link>
               </li>
               <li className='sub-menu--item'>
-                <Link href='/domain/school-os'>School OS</Link>
+                <Link href='/domain/school-os' onClick={handleMenu}>School OS</Link>
               </li>
               <li className='sub-menu--item'>
-                <Link href='/domain/office-os'>Office OS</Link>
+                <Link href='/domain/office-os' onClick={handleMenu}>Office OS</Link>
               </li>
               <li className='sub-menu--item'>
-                <Link href='/domain/time-os'>Time OS</Link>
+                <Link href='/domain/time-os' onClick={handleMenu}>Time OS</Link>
               </li>
               <li className='sub-menu--item'>
-                <Link href='/domain/quantum-os'>Quantum OS</Link>
+                <Link href='/domain/quantum-os' onClick={handleMenu}>Quantum OS</Link>
               </li>
               <li className='sub-menu--item'>
-                <Link href='/domain/future-os'>Future OS</Link>
+                <Link href='/domain/future-os' onClick={handleMenu}>Future OS</Link>
               </li>
               <li className='sub-menu--item'>
-                <Link href='/domain/telecom-os'>Telecom OS</Link>
+                <Link href='/domain/telecom-os' onClick={handleMenu}>Telecom OS</Link>
               </li>
               <li className='sub-menu--item'>
-                <Link href='/domain/internet-os'>Internet OS</Link>
+                <Link href='/domain/internet-os' onClick={handleMenu}>Internet OS</Link>
               </li>
               <li className='sub-menu--item'>
-                <Link href='/domain/space-os'>Space OS</Link>
+                <Link href='/domain/space-os' onClick={handleMenu}>Space OS</Link>
               </li>
 
             </ul>
@@ -195,10 +195,10 @@ const Navbar = ({ mobileMenu, setMobileMenu, color }) => {
                 <Link href='/services'>Services</Link>
               </li> */}
               <li className='sub-menu--item'>
-                <Link href='/about'>About Us</Link>
+                <Link href='/about' onClick={handleMenu}>About Us</Link>
               </li>
               <li className='sub-menu--item'>
-                <Link href='/faq-1'>FAQ</Link>
+                <Link href='/faq-1' onClick={handleMenu}>FAQ</Link>
               </li>
 
 
@@ -382,7 +382,7 @@ const Navbar = ({ mobileMenu, setMobileMenu, color }) => {
 
 
           <li className='nav-item'>
-            <Link href='/try-cybo' className='nav-link-item   '>
+            <Link href='/try-cybo' className='nav-link-item   ' onClick={handleMenu}>
               <span className='!bg-gradient-to-r !from-[#45C8FF] !via-[#5F2CFF] !to-[#FF3ED0] !bg-clip-text !text-transparent    '>
                 Try Cybo
               </span>
